@@ -1,3 +1,5 @@
+import test
+
 def gather_data():
     n1 = input('first value: ')
     n2 = input('second value: ')
